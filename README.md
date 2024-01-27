@@ -5,6 +5,6 @@ To install the plugins and use them, simply follow the below instructions:
 3. That's it! You can now edit source code, and alpakit the mods to use them, as well as contribute to the development of the mod.
 
 ### Known Issues
-SML really doesn't like the OpenXR plugin and keeps giving compilation errors. I'm working through these, but thought it was worth a note.
+SML really doesn't like the OpenXR plugin and keeps giving compilation errors. These are being worked through, though is worth a note.
 
 
