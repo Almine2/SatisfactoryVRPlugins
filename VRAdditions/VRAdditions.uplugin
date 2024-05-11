@@ -21,6 +21,13 @@
 			"LoadingPolicy": "Always"
 		}
 	],
+	"Modules": [
+		{
+			"Name": "VRAdditions",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
 	"Plugins": [
 		{
 			"Name": "SML",
